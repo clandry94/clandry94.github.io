@@ -26,6 +26,7 @@ a:link    {
   color: #c00;
   text-decoration: none;
  }
+a:visited { color: #0c0 }
 a:active  { color: #ccc }
 
 ul {
